@@ -1,0 +1,11 @@
+Back test last 2 years' data
+
+	convert __CSV_Reader to pd.DataFrame
+		find out what how __csv_reader behave x
+		use pd.read_csv(url) instead O
+
+	combine each month's data to a giant table O
+
+	find EMA_fast EMA_slow and MACD_Hist for each bar
+
+	Apply strategy_1 to this DataFrame
